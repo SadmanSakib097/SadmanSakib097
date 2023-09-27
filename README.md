@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img alt="coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)">
+  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
-
 
 - 🔭 I’m currently working on **several health informatics projects along with industrial project**
 
