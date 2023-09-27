@@ -3,7 +3,7 @@
 <p style="text-align: justify;">
   <b>Greetings! My name is Sakib, and I hold a degree in Computer Science Engineering.&nbsp; My educational trajectory culminated in the prestigious Department of Computer Science and Engineering at United International University.&nbsp; My research interests encompass the diverse areas of Computer Vision, Graph Optimization, Explainable Artificial Intelligence, and Biomedical Engineering.&nbsp; The primary driving force behind my decision to pursue this academic endeavor is deeply grounded in a desire to spearhead groundbreaking technologies that establish a connection between humans and technology, aiming to improve the overall quality of human life.&nbsp; I possess an unwavering ardor for intellectual endeavors that permeate my being, compelling me to perpetually engage in exploring and enriching these captivating fields.&nbsp; I enthusiastically welcome every chance to make significant connections with persons from other backgrounds, acknowledging that each interaction enhances my knowledge base, ultimately driving me toward increased effectiveness in my pursuits.</b> 
 </p>
-
+![programmer](https://github.com/SadmanSakib097/SadmanSakib097/assets/112464568/282002be-0a54-4527-9980-6aa4494dfe51)
 
 <p align="center">
   <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
