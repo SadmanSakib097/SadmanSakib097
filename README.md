@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="coding" width="400" src="https://drive.google.com/drive/u/4/folders/14fFNByrHmJehjlh5Qm59bbg4cbu1K7Hn">
+  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 - 🔭 I’m currently working on **several health informatics projects along with industrial project**
